@@ -1,5 +1,0 @@
-{{#user}}
-Name: MD Faizan Alam
-Skills: HTML, CSS, JS, React.js, Next.js, MongoDB, Express.js, Node.js, SQL, Java, Python, C, DSA
-Email: alamf015@gmail.com
-{{/user}}
